@@ -1,16 +1,16 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm William
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I'm a freshman in the class of 2030, majoring in Cybersecurity. I don't have a job right now, but I'm looking for summer internships in computer or cybersecurity roles. In my free time, I like to read/watch manga/anime, exercise, and sometimes take a nap. 
+
 ## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+<img width="1280" height="1317" alt="image" src="https://github.com/user-attachments/assets/9874e7b3-2cfc-449d-a383-1de24278f0ee" />
+
 ## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"Your sample quote here!"_
+
+ “Respect your efforts, respect yourself. Self-respect leads to self-discipline.”
+
+   -Clint Eastwood
